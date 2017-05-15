@@ -1,1 +1,2 @@
 Some other file content
+Added line 2
